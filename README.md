@@ -1,5 +1,5 @@
  
-Hello everyone :heart:
+Hello Everyone :heart:
 <br><br>I'm Razan Aboushi, a web developer and I'm always ready to learn and acquire new knowledge and skills 😊.<br><br> I'm interested in creating dynamic and easy-to-use web applications by users that have a positive impact. I am always excited to explore new technologies and stay up to date with the latest technologies and languages in the world of web development 💻.<br><br>I look forward to participating in many projects or contributing to the development of professional websites that achieve the desired goal 🚀.<br><br>:woman_technologist: I worked on a frontend framework such as react JS in addition to developing the backend on Node JS  and using HTML, CSS, and JS for creating dynamic, interactive, and responsive web apps, in addition to using WordPress to create and develop websites.<br><br>:mailbox_with_mail:	You can contact me via email at Razanalqaddoumi@gmail.com.<br><br>📫 And you can Connect me on LinkedIn https://www.linkedin.com/in/razan-aboushi/ .<br><br>I’m open to discussing new opportunities or sharing knowledge with web developers and others Conversations about development web.
 
 ### 💻 Tech Stack:

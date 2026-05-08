@@ -45,7 +45,7 @@
 
 ### 🎓 Education & Background
 
-- 🎓 **Bachelor's in Management Information Systems (MIS)** | *The University of Jordan* (2018 - 2022) | **GPA: 3.84/4.00 (Excellent)**
+- 🎓 **Bachelor's in Management Information Systems (MIS)** | *The University of Jordan* (2018 - 2022) | **GPA: 3.94/4.00 (Excellent)**
 - 📜 **Diploma in English Language and Literature** | *JU Gate Academy* (2022 - 2024)
 
 <br />

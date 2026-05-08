@@ -3,13 +3,13 @@
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand"> I'm Razan Aboushi</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=850&lines=Full+Stack+Engineer;Performance+Optimization+Expert;Building+Scalable+Web+Apps;Clean+Architecture+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=850&height=50&lines=Full+Stack+Engineer+@+OpenSooq;Performance+%26+Core+Web+Vitals+Expert;Building+Scalable+Web+Applications;Turning+Coffee+into+Clean+Code" alt="Typing SVG" />
   </a>
   <br />
   
   <p>
     Building high-performance, scalable web applications used by millions.<br>
-    Obsessed with <b>clean architecture</b>, <b>Core Web Vitals</b>, and seamless user experiences.
+    Obsessed with <b>clean architecture</b>, <b>SEO and Core Web Vitals</b>, and seamless user experiences.
   </p>
 
   <p>
@@ -38,6 +38,9 @@
 - 💻 Completed a highly selective, intensive 7-month full-stack development bootcamp.
 - ⚡ Built responsive, data-driven web apps from scratch using React, Node.js, and MongoDB.
 
+**Zarqa Private University Library** | *Supply Section Coordinator* <br>
+<kbd>Nov 2022 – Feb 2023</kbd>
+
 <br />
 
 ### 🎓 Education & Background
@@ -48,37 +51,64 @@
 <br />
 
 ### 🛠️ Technical Arsenal
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,nodejs,express,php,mysql,postgres,mongodb,git,webpack,figma,postman&perline=9" alt="Razan's Tech Stack" />
 </div>
 
 <br />
 
-### 💻 Featured Open Source Work
-
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="50%">
-      <h3>🖼️ react-perfect-gallery</h3>
-      <p>A highly reusable, accessible image gallery component featuring mobile-first design and infinite scrolling capabilities.</p>
-      <a href="https://github.com/razan-aboushi/React-image-gallery"><b>🔗 View Source Code</b></a>
+    <td width="50%" align="center">
+      <br />
+      <h3><img src="https://media.giphy.com/media/l41lOebz5q92Yf088/giphy.gif" width="25" alt="star"> react-perfect-gallery</h3>
+      <p><i>A highly reusable, accessible image gallery component featuring mobile-first design and infinite scrolling.</i></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <br /><br />
+      <a href="https://github.com/razan-aboushi/React-image-gallery">
+        <img src="https://img.shields.io/badge/View_Source_Code-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <br /><br />
     </td>
-    <td width="50%">
-      <h3>📅 mobile-date-picker</h3>
-      <p>A mobile-optimized date picker component with touch-friendly controls and customizable styling for the React developer ecosystem.</p>
-      <a href="https://github.com/razan-aboushi/my-react-mobile-datepicker"><b>🔗 View Source Code</b></a>
+    <td width="50%" align="center">
+      <br />
+      <h3><img src="https://media.giphy.com/media/l41lOebz5q92Yf088/giphy.gif" width="25" alt="star"> mobile-date-picker</h3>
+      <p><i>A mobile-optimized date picker component with touch-friendly controls and customizable styling.</i></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <br /><br />
+      <a href="https://github.com/razan-aboushi/my-react-mobile-datepicker">
+        <img src="https://img.shields.io/badge/View_Source_Code-9D00FF?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <br /><br />
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🛒 react-shopping-cart-kit</h3>
-      <p>A modern, lightweight shopping cart library. Features multi-currency support, shipping methods, discount codes, and i18n.</p>
-      <a href="https://github.com/razan-aboushi"><b>🔗 View Source Code</b></a>
+    <td width="50%" align="center">
+      <br />
+      <h3><img src="https://media.giphy.com/media/l41lOebz5q92Yf088/giphy.gif" width="25" alt="star"> react-shopping-cart-kit</h3>
+      <p><i>A modern, lightweight shopping cart library. Features multi-currency support, shipping methods, and i18n.</i></p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+      <br /><br />
+      <a href="https://github.com/razan-aboushi">
+        <img src="https://img.shields.io/badge/View_Source_Code-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <br /><br />
     </td>
-    <td width="50%">
-      <h3>📝 Technical Writing</h3>
-      <p>I actively write about React state management, Core Web Vitals, and Full Stack Architecture on Medium.</p>
-      <a href="https://medium.com/@razanalqaddoumi"><b>🔗 Read My Articles</b></a>
+    <td width="50%" align="center">
+      <br />
+      <h3><img src="https://media.giphy.com/media/l41lOebz5q92Yf088/giphy.gif" width="25" alt="star"> Technical Writing</h3>
+      <p><i>I actively write about React state management, Core Web Vitals, and Full Stack Architecture on Medium.</i></p>
+      <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blogging-9D00FF?style=flat-square&logo=hashnode&logoColor=white" />
+      <br /><br />
+      <a href="https://medium.com/@razanalqaddoumi">
+        <img src="https://img.shields.io/badge/Read_My_Articles-9D00FF?style=for-the-badge&logo=medium&logoColor=white" alt="Articles" />
+      </a>
+      <br /><br />
     </td>
   </tr>
 </table>
@@ -87,12 +117,21 @@
 
 ### 📫 Let's Connect
 
+<div align="center"> 
+  <p> I’m always open to discussing engineering, performance optimization, scalable systems, and exciting opportunities ✨ </p> 
+  <br /> 
+  <a href="mailto:Razanalqaddoumi@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/razan-aboushi/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Razan%20Aboushi-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a> 
+</div> 
+
+<br /> 
+
 <div align="center">
-  <p>I'm always open to discussing web performance, scalable architectures, or new opportunities!</p>
-  <a href="mailto:Razanalqaddoumi@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_me_an_Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-  <a href="https://www.linkedin.com/in/razan-aboushi/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  ✨ “Great software is built where performance, scalability, and user experience meet.”
+  <br /> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f172a,25:7c3aed,50:ec4899,75:8b5cf6,100:06b6d4"/> 
 </div>

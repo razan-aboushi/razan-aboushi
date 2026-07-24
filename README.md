@@ -17,7 +17,6 @@
 
 <p>
   <a href="https://razan-aboushi.github.io/razan-aboushi-portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit_Site-FF007F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.npmjs.com/package/why-hydration" target="_blank"><img alt="npm package" src="https://img.shields.io/badge/npm-why--hydration-06B6D4?style=for-the-badge&logo=npm&logoColor=white" /></a>
   <a href="https://medium.com/@razanalqaddoumi" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-Writing-9D00FF?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/razan-aboushi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Razanalqaddoumi@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-9D00FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -26,36 +25,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="filter: hue-rotate(280deg) saturate(200%);" width="100%" alt="Animated Separator" />
 
 </div>
-
-<br/>
-
-### 🌐 Featured
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <br/>
-      <h3>🎨 Portfolio</h3>
-      <p><i>Full Stack Engineer portfolio — React, Next.js, TypeScript, and performance-obsessed case studies.</i></p>
-      <a href="https://razan-aboushi.github.io/razan-aboushi-portfolio/">
-        <img src="https://img.shields.io/badge/Visit_Portfolio-FF007F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-      </a>
-      <br/><br/>
-    </td>
-    <td width="50%" align="center">
-      <br/>
-      <h3>📦 why-hydration</h3>
-      <p><i>My npm package for debugging React hydration mismatches in SSR apps.</i></p>
-      <a href="https://www.npmjs.com/package/why-hydration">
-        <img src="https://img.shields.io/npm/v/why-hydration?style=for-the-badge&color=9D00FF&label=version&logo=npm&logoColor=white" alt="npm version" />
-      </a>
-      <a href="https://www.npmjs.com/package/why-hydration">
-        <img src="https://img.shields.io/npm/dm/why-hydration?style=for-the-badge&color=06B6D4&label=downloads&logo=npm&logoColor=white" alt="npm downloads" />
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -91,19 +60,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,nodejs,express,php,mysql,postgres,mongodb,git,webpack,figma,postman&perline=9" alt="Razan's Tech Stack" />
-</div>
-
-<br/>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=razan-aboushi&show_icons=true&hide_border=true&title_color=EC4899&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&ring_color=06B6D4" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razan-aboushi&hide_border=true&background=0D1117&ring=EC4899&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razan-aboushi&layout=compact&hide_border=true&title_color=EC4899&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" height="165" />
 </div>
 
 <br/>
@@ -172,16 +128,6 @@
 <div align="center">
 
 <p>I'm always open to discussing engineering, performance optimization, scalable systems, and exciting opportunities ✨</p>
-
-<a href="mailto:Razanalqaddoumi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/razan-aboushi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Razan%20Aboushi-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://razan-aboushi.github.io/razan-aboushi-portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-06b6d4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <br/><br/>
 

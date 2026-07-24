@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,25:7c3aed,50:ec4899,75:8b5cf6,100:06b6d4&text=Razan%20Aboushi&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Engineer%20%40%20OpenSooq&descAlignY=58&descSize=18" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,25:7c3aed,50:ec4899,75:8b5cf6,100:06b6d4&text=Razan%20Aboushi&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand" />
 <b>Hi, I'm Razan</b> — I build fast, SEO-solid, millions-of-users-scale web experiences.

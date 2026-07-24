@@ -6,7 +6,7 @@
 <b>Hi, I'm Razan</b> — I build fast, SEO-solid, millions-of-users-scale web experiences.
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=EC4899&center=true&vCenter=true&width=800&height=45&lines=Full+Stack+Engineer+%40+OpenSooq;Hydration+%26+SSR+Debugging+Enthusiast;Core+Web+Vitals+%26+SEO+Specialist;Turning+Coffee+Into+Clean%2C+Fast+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?opefont=Fira+Code&weight=600&size=22&duration=3200&pause=1200&color=EC4899&center=true&vCenter=true&width=800&height=45&lines=Full+Stack+Engineer+%40+OpenSooq;Hydration+%26+SSR+Debugging+Enthusiast;Core+Web+Vitals+%26+SEO+Specialist;Turning+Coffee+Into+Clean%2C+Fast+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -123,15 +123,9 @@
 
 <br/>
 
-### 📫 Let's Connect
-
 <div align="center">
 
 <p>I'm always open to discussing engineering, performance optimization, scalable systems, and exciting opportunities ✨</p>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=razan-aboushi&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
